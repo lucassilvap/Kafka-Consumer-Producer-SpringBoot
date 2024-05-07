@@ -11,6 +11,10 @@ public Product(String name, String message) {
 	this.message = message;
 }
 
+public Product() {
+	
+}
+
 public String getName() {
 	return name;
 }
